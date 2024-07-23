@@ -1,0 +1,30 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  chatId    Int      @unique
+  payments  Payment[]
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+}
+
+model Payment {
+  id           Int      @id @default(autoincrement())
+  amount       Float
+  currency     String
+  description  String
+  paymentId    String   @unique
+  status       String
+  userId       Int
+  user         User     @relation(fields: [userId], references: [id])
+  callbackData String
+  created_at   DateTime @default(now())
+  updated_at   DateTime @updatedAt
+}
