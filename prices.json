@@ -8,28 +8,28 @@
                 "intermediate_message": "Приятного просмотра!\nhttps://youtu.be/6pz_vEQbAQM"
             },
             {
-                "text": "День 1 (700 рублей)",
+                "text": "Часть 1 (700 рублей)",
                 "callback_data": "BodyDream_Day1_700",
-                "intermediate_message": "Вы выбрали День 1. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Вот ваша ссылка на День 1: https://t.me/+mKvfSpA5ek5jMDRi"
+                "intermediate_message": "Вы выбрали Часть 1. \nСекунду, мы готовим платежную ссылку для вас.",
+                "success_message": "Вот ваша ссылка на Часть 1: https://t.me/+mKvfSpA5ek5jMDRi"
             },
             {
-                "text": "День 2 (700 рублей)",
+                "text": "Часть 2 (700 рублей)",
                 "callback_data": "BodyDream_Day2_700",
-                "intermediate_message": "Вы выбрали День 2. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Вот ваша ссылка на День 2: https://t.me/+rtpc9aatq-80MmU6"
+                "intermediate_message": "Вы выбрали Часть 2. \nСекунду, мы готовим платежную ссылку для вас.",
+                "success_message": "Вот ваша ссылка на Часть 2: https://t.me/+rtpc9aatq-80MmU6"
             },
             {
-                "text": "День 3 (700 рублей)",
+                "text": "Часть 3 (700 рублей)",
                 "callback_data": "BodyDream_Day3_700",
-                "intermediate_message": "Вы выбрали День 3. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Вот ваша ссылка на День 3: https://t.me/+M6vpmsmLIlYzYWMy"
+                "intermediate_message": "Вы выбрали Часть 3. \nСекунду, мы готовим платежную ссылку для вас.",
+                "success_message": "Вот ваша ссылка на Часть 3: https://t.me/+M6vpmsmLIlYzYWMy"
             },
             {
                 "text": "Курс целиком (1990 рублей)",
                 "callback_data": "BodyDream_FullCourse_1990",
                 "intermediate_message": "Вы выбрали Курс целиком. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Курс состоит из трёх дней:\nДень 1: https://t.me/+mKvfSpA5ek5jMDRi\nДень 2: https://t.me/+rtpc9aatq-80MmU6\nДень 3: https://t.me/+M6vpmsmLIlYzYWMy\nРекомендуется выполнять упражнения, распределив дни тренировок на всю неделю."
+                "success_message": "Курс состоит из трёх дней:\nЧасть 1: https://t.me/+mKvfSpA5ek5jMDRi\nЧасть 2: https://t.me/+rtpc9aatq-80MmU6\nЧасть 3: https://t.me/+M6vpmsmLIlYzYWMy\nРекомендуется выполнять упражнения, распределив дни тренировок на всю неделю."
             },
             {
                 "text": "⬅️ Назад ко всем курсам",
@@ -46,22 +46,22 @@
                 "intermediate_message": "Приятного просмотра!\nhttps://youtu.be/6pz_vEQbAQM"
             },
             {
-                "text": "День 1 (500 рублей)",
+                "text": "Часть 1 (500 рублей)",
                 "callback_data": "StalnoyPress_Day1_500",
-                "intermediate_message": "Вы выбрали День 1. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Вот ваша ссылка на День 1: https://t.me/+dXpfndW2PGFkNzIy"
+                "intermediate_message": "Вы выбрали Часть 1. \nСекунду, мы готовим платежную ссылку для вас.",
+                "success_message": "Вот ваша ссылка на Часть 1: https://t.me/+dXpfndW2PGFkNzIy"
             },
             {
-                "text": "День 2 (500 рублей)",
+                "text": "Часть 2 (500 рублей)",
                 "callback_data": "StalnoyPress_Day2_500",
-                "intermediate_message": "Вы выбрали День 2. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Вот ваша ссылка на День 2: https://t.me/+yWkANCPXieM4M2Yy"
+                "intermediate_message": "Вы выбрали Часть 2. \nСекунду, мы готовим платежную ссылку для вас.",
+                "success_message": "Вот ваша ссылка на Часть 2: https://t.me/+yWkANCPXieM4M2Yy"
             },
             {
                 "text": "Курс целиком (990 рублей)",
                 "callback_data": "StalnoyPress_FullCourse_990",
                 "intermediate_message": "Вы выбрали Курс целиком. \nСекунду, мы готовим платежную ссылку для вас.",
-                "success_message": "Курс состоит из двух дней:\nДень 1: https://t.me/+dXpfndW2PGFkNzIy\nДень 2: https://t.me/+yWkANCPXieM4M2Yy\nРекомендуется выполнять упражнения, распределив дни тренировок на всю неделю."
+                "success_message": "Курс состоит из двух дней:\nЧасть 1: https://t.me/+dXpfndW2PGFkNzIy\nЧасть 2: https://t.me/+yWkANCPXieM4M2Yy\nРекомендуется выполнять упражнения, распределив дни тренировок на всю неделю."
             },
             {
                 "text": "⬅️ Назад ко всем курсам",
